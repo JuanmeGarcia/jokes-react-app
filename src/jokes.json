@@ -1,0 +1,19 @@
+{
+    "jokes":[
+        {
+            "setup":"What's the best thing about Switzerland?",
+            "punchline":"I don't know, but the flag is a big plus."
+        },
+        {
+            "punchline":"He'll stop at nothing to avoid them.",
+            "setup":"Did you hear about the mathematician who's afraid of negative numbers?"
+        },
+        {
+            "punchline":"I'm not a great dancer, but I'm better than no dancers."
+        },
+        {
+            "setup":"What's the difference between a snowman and a snowwoman?",
+            "punchline":"Snowballs."
+        }
+    ]
+}
